@@ -18,7 +18,7 @@ A C++ command line tool that automates the organization of screenshots by moving
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/screenshot-management-tool.git
+   git clone https://github.com/CaidenAHerbert/screenshot-management-tool.git
 2. **Navigation:**
  cd screenshot-management-tool
 
